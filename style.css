@@ -278,7 +278,7 @@ body {
 .profile-info p {
     font-size: 1.1em;
     color: transparent;  /* Make the text color transparent */
-    background: linear-gradient(to right, rgb(80, 80, 80), rgb(161, 232, 248)); /* Gradient background */
+    background: linear-gradient(to right,  rgb(244, 244, 244), rgb(161, 232, 248)); /* Gradient background */
     -webkit-background-clip: text;  /* Clip the background to the text for WebKit browsers */
     background-clip: text;  /* For non-WebKit browsers */
     line-height: 1.6;
